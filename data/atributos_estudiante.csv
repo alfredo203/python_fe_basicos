@@ -1,0 +1,21 @@
+Atributo,Descripción
+Horas_Estudio,Número de horas dedicadas al estudio por semana.
+Asistencia,Porcentaje de clases asistidas.
+Participación_Parental,"Nivel de participación de los padres en la educación del estudiante (Bajo, Medio, Alto)."
+Acceso_a_Recursos,"Disponibilidad de recursos educativos (Bajo, Medio, Alto)."
+Actividades_Extracurriculares,"Participación en actividades extracurriculares (Sí, No)."
+Horas_Sueño,Número promedio de horas de sueño por noche.
+Puntajes_Anteriores,Puntajes de exámenes anteriores.
+Nivel_Motivación,"Nivel de motivación del estudiante (Bajo, Medio, Alto)."
+Acceso_a_Internet,"Disponibilidad de acceso a internet (Sí, No)."
+Sesiones_de_Tutoría,Número de sesiones de tutoría asistidas por mes.
+Ingreso_Familiar,"Nivel de ingreso familiar (Bajo, Medio, Alto)."
+Calidad_de_Docentes,"Calidad de los docentes (Bajo, Medio, Alto)."
+Tipo_de_Escuela,"Tipo de escuela a la que asiste (Pública, Privada)."
+Influencia_de_Pares,"Influencia de los compañeros en el rendimiento académico (Positiva, Neutral, Negativa)."
+Actividad_Física,Número promedio de horas de actividad física por semana.
+Dificultades_de_Aprendizaje,"Presencia de dificultades de aprendizaje (Sí, No)."
+Nivel_Educativo_Parental,"Nivel educativo más alto de los padres (Secundaria, Universidad, Posgrado)."
+Distancia_de_Casa,"Distancia de casa a la escuela (Cercana, Moderada, Lejana)."
+Género,"Género del estudiante (Masculino, Femenino)."
+Puntaje_Examen,Puntaje final del examen.
